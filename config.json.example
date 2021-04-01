@@ -1,0 +1,14 @@
+{
+	"twilio": {
+		"accountSid": "ACCOUNT_SID",
+		"authToken": "AUTH_TOKEN",
+		"smsSender": "+16512345678",
+		"smsReceivers": ["+16125556789"]
+	},
+	"cvs": {
+		"state": {
+			"abbreviation": "MN",
+			"name": "Minnesota"
+		}
+	}
+}
